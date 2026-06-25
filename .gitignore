@@ -1,0 +1,16 @@
+# Environments
+venv/
+ncs_env/
+
+# API Keys and Secrets
+.env
+
+# Local Databases and Cache
+chroma_cet_live/
+__pycache__/
+*.pyc
+
+# Data Files (Optional, but good practice if the Excel file is large)
+*.xls
+*.xlsx
+*.csv
