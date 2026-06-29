@@ -1,6 +1,6 @@
 # Nigeria Customs Service (NCS) Automated Duty Calculator & Tariff Classifier
 
-![NCS Duty Calculator Preview](assets/dashboard_preview.png)
+![NCS Duty Calculator Preview](assets/dashboard_preview.png.png)
 
 An AI cognitive agent designed to eliminate HS code misclassifications and calculate exact landing costs for shipments entering Nigerian ports (Apapa, Tin Can, etc.) using the official ECOWAS Common External Tariff (CET).
 
