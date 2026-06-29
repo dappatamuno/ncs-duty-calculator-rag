@@ -271,7 +271,7 @@ def main():
             
             # Item Container
             with st.container(border=True):
-                st.markdown("<div style='background-color: #0f5132; color: white; padding: 10px; border-radius: 4px 4px 0 0;'><b>📦 Item 1 Details</b></div>", unsafe_allow_html=True)
+                st.markdown("<div style='background-color: #0f5132; color: white; padding: 10px; border-radius: 4px 4px 0 0;'><b> Item 1 Details</b></div>", unsafe_allow_html=True)
                 st.write("")
                 
                 product_desc = st.text_area("Product Specifications / Invoice Line Item", height=100, placeholder="e.g. Matured Atlantic and Pacific bluefin tunas...")
